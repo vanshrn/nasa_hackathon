@@ -141,6 +141,12 @@ function App() {
                 <div className="bg-gray-700 p-4 rounded-lg">
                   <h2 className="text-xl font-semibold">Direction: {selectedAsteroid.direction}</h2>
                 </div>
+                <div className="bg-gray-700 p-4 rounded-lg">
+                  <h2 className="text-xl font-semibold">Size: {selectedAsteroid.estimated_diameter_meters} meters</h2>
+                </div>
+                <div className="bg-gray-700 p-4 rounded-lg">
+                  <h2 className="text-xl font-semibold">Distance: {selectedAsteroid.miss_distance_km} km</h2>
+                </div>
               </div>
             </div>
           ) : (
