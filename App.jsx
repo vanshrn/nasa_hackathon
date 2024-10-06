@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
-import Navbar from "./compenents/Navbar";
-import About from "./compenents/About";
-import Earth from "./spline-viewer/Earth";
+import Navbar from "./Navbar";
+import About from "./About";
+import Earth from "./Earth";
 import "./App.css";
 import { Fragment } from "react";
 
