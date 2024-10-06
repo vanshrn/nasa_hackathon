@@ -1,7 +1,7 @@
-import kartik from "../assets/kartik.jpg";
-import prem from "../assets/prem.jpg";
-import vansh from "../assets/vansh.jpg";
-import digant from "../assets/digant.jpg";
+import kartik from "./kartik.jpg";
+import prem from "./prem.jpg";
+import vansh from "./vansh.jpg";
+import digant from "./digant.jpg";
 
 const teamMembers = [
     {
